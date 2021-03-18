@@ -1,0 +1,41 @@
+.header{
+    width:100%;
+    border-radius: 0px;
+    text-align: left;
+}
+#title{
+    display: inline;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.instruction{
+    float:right;
+    border:white 2px solid;
+}
+#big_img{
+    width:100%;
+}
+#button_play{
+    font-size: 22px;
+}
+#status{
+    font-size: 22px;
+}
+h4{
+    line-height:2;
+    background-color:white;
+    margin:0px;
+}
+.img_style{
+    width:45%;
+    display:inline;
+}
+.modal-dialog{
+    width:90%;
+}
+video{
+    background:url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding:20px;
+}
